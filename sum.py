@@ -1,1 +1,1 @@
-print(int(input("First: ")) + int(input("Second: ")) + int(input("Third: ")) + int(input("Fourth: ")) + int(input("Fifth: ")) + int(input("Sixth")) + int(input("Seventh")) + int(input("Eighth")) + int(input("Ninth")) + int(input("Tenth")))
+print(int(input("First: ")) + int(input("Second: ")) + int(input("Third: ")) + int(input("Fourth: ")) + int(input("Fifth: ")) + int(input("Sixth: ")) + int(input("Seventh: ")) + int(input("Eighth: ")) + int(input("Ninth: ")) + int(input("Tenth: ")))
